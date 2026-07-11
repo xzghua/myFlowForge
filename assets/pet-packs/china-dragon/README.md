@@ -1,5 +1,5 @@
 # 中国龙
 
-idle 盘卧微动；working 绕 8 字飞；confirm/input 朝屏幕扑近；done 从飞行收回盘卧。
+idle 盘绕呼吸；working 舒展龙身巡游；confirm 探头抓挠提醒；input 叼来卷轴并指向填写处；done 腾云翻身后重新盘绕。
 
-根目录的 idle/working/confirm/input/done.gif 是可直接导入的动图宠物包。png/ 和 webp/ 子目录保留对应静态首帧备用图。
+根目录 GIF 是兼容动图，`webp/` 是运行时透明动画，`apng/` 是 APNG 动画，`png/` 是静态预览，`frames/` 与 `source/` 保留关键帧和原始精灵表。

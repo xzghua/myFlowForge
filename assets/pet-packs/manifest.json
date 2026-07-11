@@ -12,64 +12,74 @@
     {
       "id": "china-dragon",
       "name": "中国龙",
-      "description": "idle 盘卧微动；working 绕 8 字飞；confirm/input 朝屏幕扑近；done 从飞行收回盘卧。",
+      "description": "idle 盘绕呼吸；working 舒展龙身巡游；confirm 探头抓挠提醒；input 叼来卷轴并指向填写处；done 腾云翻身。",
       "files": {
         "idle": {
           "gif": "idle.gif",
           "png": "png/idle.png",
-          "webp": "webp/idle.webp"
+          "webp": "webp/idle.webp",
+          "apng": "apng/idle.png"
         },
         "working": {
           "gif": "working.gif",
           "png": "png/working.png",
-          "webp": "webp/working.webp"
+          "webp": "webp/working.webp",
+          "apng": "apng/working.png"
         },
         "confirm": {
           "gif": "confirm.gif",
           "png": "png/confirm.png",
-          "webp": "webp/confirm.webp"
+          "webp": "webp/confirm.webp",
+          "apng": "apng/confirm.png"
         },
         "input": {
           "gif": "input.gif",
           "png": "png/input.png",
-          "webp": "webp/input.webp"
+          "webp": "webp/input.webp",
+          "apng": "apng/input.png"
         },
         "done": {
           "gif": "done.gif",
           "png": "png/done.png",
-          "webp": "webp/done.webp"
+          "webp": "webp/done.webp",
+          "apng": "apng/done.png"
         }
       }
     },
     {
       "id": "white-catgirl",
       "name": "成年白系猫娘",
-      "description": "成年、白系、非色情半 Q 版；idle 来回走；working 坐在电脑前工作；confirm/input 面向屏幕跳起招手；done 侧躺睡觉。",
+      "description": "成年白银系半 Q 版；idle 面向屏幕猫步；working 键盘节奏舞；confirm 招手确认；input 示意填写；done 跳起庆祝。",
       "files": {
         "idle": {
           "gif": "idle.gif",
           "png": "png/idle.png",
-          "webp": "webp/idle.webp"
+          "webp": "webp/idle.webp",
+          "apng": "apng/idle.png"
         },
         "working": {
           "gif": "working.gif",
           "png": "png/working.png",
-          "webp": "webp/working.webp"
+          "webp": "webp/working.webp",
+          "apng": "apng/working.png"
         },
         "confirm": {
           "gif": "confirm.gif",
           "png": "png/confirm.png",
-          "webp": "webp/confirm.webp"
+          "webp": "webp/confirm.webp",
+          "apng": "apng/confirm.png"
         },
         "input": {
           "gif": "input.gif",
           "png": "png/input.png",
-          "webp": "webp/input.webp"
+          "webp": "webp/input.webp",
+          "apng": "apng/input.png"
         },
         "done": {
           "gif": "done.gif",
           "png": "png/done.png",
-          "webp": "webp/done.webp"
+          "webp": "webp/done.webp",
+          "apng": "apng/done.png"
         }
       }
     },
@@ -81,123 +91,143 @@
         "idle": {
           "gif": "idle.gif",
           "png": "png/idle.png",
-          "webp": "webp/idle.webp"
+          "webp": "webp/idle.webp",
+          "apng": "apng/idle.png"
         },
         "working": {
           "gif": "working.gif",
           "png": "png/working.png",
-          "webp": "webp/working.webp"
+          "webp": "webp/working.webp",
+          "apng": "apng/working.png"
         },
         "confirm": {
           "gif": "confirm.gif",
           "png": "png/confirm.png",
-          "webp": "webp/confirm.webp"
+          "webp": "webp/confirm.webp",
+          "apng": "apng/confirm.png"
         },
         "input": {
           "gif": "input.gif",
           "png": "png/input.png",
-          "webp": "webp/input.webp"
+          "webp": "webp/input.webp",
+          "apng": "apng/input.png"
         },
         "done": {
           "gif": "done.gif",
           "png": "png/done.png",
-          "webp": "webp/done.webp"
+          "webp": "webp/done.webp",
+          "apng": "apng/done.png"
         }
       }
     },
     {
       "id": "rocket-fox",
       "name": "火箭狐",
-      "description": "idle 大步游走；working 火箭背包喷射巡航；confirm/input 扑向屏幕挥爪；done 蜷起休息。",
+      "description": "idle 警戒踱步；working 喷射背包巡航；confirm 扑近挥爪；input 展开腕屏；done 空翻落地。",
       "files": {
         "idle": {
           "gif": "idle.gif",
           "png": "png/idle.png",
-          "webp": "webp/idle.webp"
+          "webp": "webp/idle.webp",
+          "apng": "apng/idle.png"
         },
         "working": {
           "gif": "working.gif",
           "png": "png/working.png",
-          "webp": "webp/working.webp"
+          "webp": "webp/working.webp",
+          "apng": "apng/working.png"
         },
         "confirm": {
           "gif": "confirm.gif",
           "png": "png/confirm.png",
-          "webp": "webp/confirm.webp"
+          "webp": "webp/confirm.webp",
+          "apng": "apng/confirm.png"
         },
         "input": {
           "gif": "input.gif",
           "png": "png/input.png",
-          "webp": "webp/input.webp"
+          "webp": "webp/input.webp",
+          "apng": "apng/input.png"
         },
         "done": {
           "gif": "done.gif",
           "png": "png/done.png",
-          "webp": "webp/done.webp"
+          "webp": "webp/done.webp",
+          "apng": "apng/done.png"
         }
       }
     },
     {
       "id": "phoenix",
       "name": "凤凰",
-      "description": "idle 振翼悬停；working 火焰弧线飞行；confirm/input 俯冲贴近；done 收翼停落。",
+      "description": "idle 振翼悬停；working 火焰弧线飞行；confirm 俯冲提醒；input 喙尖点亮；done 展翼迸发火星。",
       "files": {
         "idle": {
           "gif": "idle.gif",
           "png": "png/idle.png",
-          "webp": "webp/idle.webp"
+          "webp": "webp/idle.webp",
+          "apng": "apng/idle.png"
         },
         "working": {
           "gif": "working.gif",
           "png": "png/working.png",
-          "webp": "webp/working.webp"
+          "webp": "webp/working.webp",
+          "apng": "apng/working.png"
         },
         "confirm": {
           "gif": "confirm.gif",
           "png": "png/confirm.png",
-          "webp": "webp/confirm.webp"
+          "webp": "webp/confirm.webp",
+          "apng": "apng/confirm.png"
         },
         "input": {
           "gif": "input.gif",
           "png": "png/input.png",
-          "webp": "webp/input.webp"
+          "webp": "webp/input.webp",
+          "apng": "apng/input.png"
         },
         "done": {
           "gif": "done.gif",
           "png": "png/done.png",
-          "webp": "webp/done.webp"
+          "webp": "webp/done.webp",
+          "apng": "apng/done.png"
         }
       }
     },
     {
       "id": "cyber-jellyfish",
       "name": "赛博水母",
-      "description": "idle 大幅漂浮；working 触手摆动操作终端；confirm/input 弹跳贴近；done 下沉睡眠。",
+      "description": "idle 伞体呼吸漂浮；working 触手操作终端；confirm 弹跳闪灯；input 指向输入区域；done 旋转上浮释放光环。",
       "files": {
         "idle": {
           "gif": "idle.gif",
           "png": "png/idle.png",
-          "webp": "webp/idle.webp"
+          "webp": "webp/idle.webp",
+          "apng": "apng/idle.png"
         },
         "working": {
           "gif": "working.gif",
           "png": "png/working.png",
-          "webp": "webp/working.webp"
+          "webp": "webp/working.webp",
+          "apng": "apng/working.png"
         },
         "confirm": {
           "gif": "confirm.gif",
           "png": "png/confirm.png",
-          "webp": "webp/confirm.webp"
+          "webp": "webp/confirm.webp",
+          "apng": "apng/confirm.png"
         },
         "input": {
           "gif": "input.gif",
           "png": "png/input.png",
-          "webp": "webp/input.webp"
+          "webp": "webp/input.webp",
+          "apng": "apng/input.png"
         },
         "done": {
           "gif": "done.gif",
           "png": "png/done.png",
-          "webp": "webp/done.webp"
+          "webp": "webp/done.webp",
+          "apng": "apng/done.png"
         }
       }
     }
